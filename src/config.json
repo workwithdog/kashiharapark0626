@@ -1,9 +1,9 @@
 {
-  "title": "Geolonia PWAマップ",
+  "title": "橿原市 実験マップ(Geolonia PWAマップ)",
   "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
+  "logo_image_url": "https://pbs.twimg.com/profile_images/1649305829391339524/Q_8XT4jL_400x400.jpg",
+  "background_image_url": "https://drive.google.com/file/d/1jiYnHAIZ-JTJF-cAd3LZhCCeFbMlzrB5/view?usp=drive_link",
   "primary_color": "#d2691e",
   "orderby": "distance"
 }
