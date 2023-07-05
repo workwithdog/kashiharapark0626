@@ -12,7 +12,7 @@ on:
 
   schedule:
     - cron:  '*/60 * * * *'
-    # 10分ごとに実行
+    # 10分ごとに実行だったものを、60分ごとに実行に変更
 
 permissions:
   contents: write
